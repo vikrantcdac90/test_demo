@@ -1,0 +1,4 @@
+class A
+{
+sysout("This is sample file")
+}
